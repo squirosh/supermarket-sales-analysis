@@ -1,19 +1,20 @@
 # 🛒 Supermarket Sales Analysis
 
-Este proyecto analiza datos de ventas de supermercados para identificar patrones en el comportamiento de los clientes.
+This project explores supermarket sales data to identify customer trends, best-performing branches, and top-selling products.
 
-## 📊 Objetivos
-- Limpiar y explorar los datos
-- Calcular métricas como ventas por ciudad y producto
-- Visualizar los resultados
+## 🎯 Objectives
+- Clean and explore the dataset  
+- Visualize key trends and metrics  
+- Draw actionable insights  
 
-## 🧰 Tecnologías usadas
-- Python
-- Pandas
-- Matplotlib
-- Jupyter Notebook
+## 🧰 Technologies Used
+- Python  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebook  
 
-## 🚀 Cómo ejecutar
-1. Clonar el repositorio:
+## 🚀 How to Run
+1. Clone this repository:
    ```bash
-   git clone https://github.com/tuusuario/supermarket-sales-analysis.git
+   git clone https://github.com/YOUR_USERNAME/supermarket-sales-analysis.git
